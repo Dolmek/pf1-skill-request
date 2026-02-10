@@ -7,7 +7,8 @@
   "compatibility": { "minimum": "13", "verified": "13" },
   "esmodules": ["scripts/main.js"],
 
-  "manifest": "https://github.com/Dolmek/pf1-skill-request/releases/download/0.1.1/module.json",
-  "download": "https://github.com/dolmek/pf1-skill-request/releases/download/0.1.1/module.zip",
+  "manifest": "https://raw.githubusercontent.com/dolmek/pf1-skill-request/main/module.json",
+  "download": "download": "https://raw.githubusercontent.com/dolmek/pf1-skill-request/main/dist/module.zip",
   "url": "https://github.com/dolmek/pf1-skill-request"
 }
+
